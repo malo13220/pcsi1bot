@@ -106,4 +106,4 @@ async def aide(ctx):
     embed.set_footer(text='PCSI Bot by @Malo Tiriau')
     await ctx.send(embed = embed)
 
-bot.run('Njk5Mjg2Nzc5OTY2MjU5Mjky.XpSLkA.cjvXHU2xtYepKyy_MOudrZNzO3c')
+bot.run('tokenkey')
